@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+Pearl.egg-info/PKG-INFO
+Pearl.egg-info/SOURCES.txt
+Pearl.egg-info/dependency_links.txt
+Pearl.egg-info/requires.txt
+Pearl.egg-info/top_level.txt
